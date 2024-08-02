@@ -4,7 +4,7 @@
 ### Остановить контейнеры
 [docker-compose down](https://docs.docker.com/reference/cli/docker/compose/down/) - эта команда остановит и удалит все контейнеры, созданные с помощью docker-compose up
 
-### Посмотреть контейнеры
+### Посмотреть запущенные контейнеры
 [docker-compose ps](https://docs.docker.com/reference/cli/docker/compose/ps/) - эта команда покажет список всех запущенных контейнеров и их статус
 
 ### Посмотреть логи контейнера
