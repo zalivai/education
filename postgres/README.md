@@ -9,3 +9,4 @@
 
 ### Посмотреть логи контейнера
 [docker-compose logs <service_name>](https://docs.docker.com/reference/cli/docker/compose/logs/) - с помощью этой команды можно посмотреть логи конкретного сервиса, например чтобы посмотреть логи сервиса postgres: docker-compose logs postgres
+privet
